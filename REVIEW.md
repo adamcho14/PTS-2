@@ -1,7 +1,7 @@
 # Review
 
 - !!!počas hry mi to pri zadaní vstupu na “Your choice:” vyhodilo TypeError!!!
-
+--Riešenie: kukni dokumentáciu k funkcii *movable*
 - nemusíš importovať celý “random”. Stačí “from random import randint”.
 - 12, 17: zbytočne definovaná premenná “helper”. Stačí len rovno returnúť hodnotu
 - 25: príliš dlhý riadok - pozri PEP
